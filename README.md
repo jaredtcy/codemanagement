@@ -58,3 +58,8 @@ Additional Information
 - If you encounter any issues related to MySQL setup, make sure that your database is running and that your credentials match those in the InventoryServlet.java file.
 - The application uses JSP (JavaServer Pages) for the front-end, so make sure your server is properly configured to handle JSP files.
 
+
+## Contact
+If you have any questions or need support, feel free to reach out:
+
+Email: support@companyvendor.com
