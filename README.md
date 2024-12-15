@@ -11,7 +11,7 @@ This web application is an inventory management system built with Java, JSP, and
 ## Screenshots
 
 ### Login Page
-[Login Page](./screenshots/login.png)
+![Login Page](./screenshots/login.png)
 
 ### Inventory Management Page
 ![Inventory Management Dashboard](./screenshots/inventory.png)
