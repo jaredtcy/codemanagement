@@ -8,6 +8,13 @@ This web application is an inventory management system built with Java, JSP, and
 - Chatbot feature for customer support
 - Basic error handling and validation
 
+## Screenshots
+
+### Login Page
+
+
+### Inventory Management Page
+
 ## Setup
 
 1. Clone this repository:
