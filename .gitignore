@@ -1,2 +1,26 @@
-/build/
+# Java related
+*.class 
+*.jar
+*.war
+*.ear
+
+# Maven / Gradle directories
+/.mvn/
 /target/
+/build/
+
+# IntelliJ IDEA project files
+.idea/
+/*.iml
+
+# Eclipse project files
+/.classpath
+/.project
+/.settings/
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.bak

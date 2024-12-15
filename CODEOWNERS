@@ -1,0 +1,16 @@
+# Developer 1 (John) working on the Login Page (login page-related files)
+# Login page files: /login directory and login-related files
+/login/* @developer1
+
+# Developer 2 (Mary) working on the Inventory Table (inventory page-related files)
+# Inventory page files: /inventory directory and inventory-related files
+/inventory/* @developer2
+
+# Developer 3 (Jared) working on the Customer Support section (support page-related files)
+# Customer support files: /support directory and support-related files
+/support/* @developer3
+
+# Developer 3 (Jared) working on the Add New Item section (add item page-related files)
+# Add new item files: /add-item directory and add-item-related files
+/add-item/* @developer3
+
