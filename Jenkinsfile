@@ -2,13 +2,12 @@ pipeline {
     agent any
 
     tools {
-        // Correctly specifying Maven and JDK versions as per Jenkins tool configuration
         maven 'maven 3.9.9'
         jdk 'Java JDK 17'
     }
 
     environment {
-        PATH = "$PATH:/opt/homebrew/bin" // Ensuring correct shell paths are available
+        PATH = "/bin:/usr/bin:/usr/local/bin:/opt/homebrew/bin:$PATH"
     }
 
     stages {
