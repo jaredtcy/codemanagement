@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <title>Inventory Management</title>
     <style>
-        /* Styling for Contact Details Footer - For testFortest*/
+        /* Styling for Contact Details Footer - For testFortestFortest*/
         footer {
             text-align: center;
             background-color: #f8f9fa;
