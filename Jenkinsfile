@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Defining environment variables for Maven and JDK tools
-        MAVEN_HOME = tool name: 'Maven 3.9.9', type: 'Maven'
+        MAVEN_HOME = tool name: 'maven 3.9.9', type: 'Maven'
         JDK_HOME = tool name: 'JDK 17', type: 'JDK'
     }
 
